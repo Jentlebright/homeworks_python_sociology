@@ -1,5 +1,6 @@
 # homeworks_python_sociology
 Homeworks for the Python data analysis course at HSE Sociology
+
 Здесь будет 3 домашних работы. Окружение постепенно будет обновляться по мере роста используемых библиотек.
 
 ### ЧЕДЕЛАТЬ??? Инструкция для проверяющих
